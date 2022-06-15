@@ -1,4 +1,4 @@
-Recent graduate in Computer Science and Artificial Intelligence.
+Graduate in Computer Science and Artificial Intelligence.
 Currently self-studying, collaborating on projects, and searching for full time work.
 
 LinkedIn:
