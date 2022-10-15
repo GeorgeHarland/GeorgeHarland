@@ -1,5 +1,6 @@
-Graduate in Computer Science and Artificial Intelligence.
-Currently self-studying, collaborating on projects, and searching for full time work.
+Full-stack developer - Tend to use React for frontends, then Node, Python(flask), or Java for the backend.
+
+Graduated in Computer Science and Artificial Intelligence.
 
 LinkedIn:
 https://www.linkedin.com/in/georgeharland729/
