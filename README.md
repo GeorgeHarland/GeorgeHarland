@@ -1,4 +1,5 @@
 Full-stack developer
+
 Computer Science and AI - Sussex
 
 Tend to use React for frontends, then Node, Python(flask), or Java for the backend.
