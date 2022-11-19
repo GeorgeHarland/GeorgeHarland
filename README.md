@@ -1,6 +1,7 @@
-Full-stack developer - Tend to use React for frontends, then Node, Python(flask), or Java for the backend.
+Full-stack developer
+Computer Science and AI - Sussex
 
-Graduated in Computer Science and Artificial Intelligence.
+Tend to use React for frontends, then Node, Python(flask), or Java for the backend.
 
 LinkedIn:
 https://www.linkedin.com/in/georgeharland729/
