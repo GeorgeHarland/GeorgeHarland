@@ -1,8 +1,8 @@
-Full-stack developer
+Full-stack developer based in Brighton, UK.
 
 Computer Science and AI - Sussex
 
-Tend to use React for frontends, then Node, Python(flask), or Java for the backend.
+Mostly work with TypeScript and React, but fairly language agnostic.
 
 LinkedIn:
 https://www.linkedin.com/in/georgeharland729/
