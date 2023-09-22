@@ -1,8 +1,9 @@
-Full-stack developer based in Brighton, UK.
+Full-stack developer based in Brighton, UK:
+- Main stack is TypeScript/React/Python/AWS
+- BSc in Computer Science and AI - University of Sussex
 
-Computer Science and AI - Sussex
-
-Mostly work with TypeScript and React, but fairly language agnostic.
+Currently working on:
+- A full stack solution for https://lolglobalpowerrankings.devpost.com/
 
 LinkedIn:
 https://www.linkedin.com/in/georgeharland729/
