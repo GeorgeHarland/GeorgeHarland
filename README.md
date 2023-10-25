@@ -1,8 +1,8 @@
 Full-stack developer based in Brighton, UK. Mainly work with TypeScript/React/Python/AWS, but I'm fairly language agnostic.
 
-Currently working on a full stack solution for https://lolglobalpowerrankings.devpost.com/
+1.5 years professional experience + BSc in Computer Science and AI.
 
-BSc in Computer Science and AI
+Example of past professional work: https://ui.prod.pokersnowie.com/
 
 LinkedIn:
 https://www.linkedin.com/in/georgeharland729/
