@@ -1,8 +1,6 @@
 Full-stack developer based in Brighton, UK. Mainly work with TypeScript/React/Python/AWS, but I'm fairly language agnostic.
 
-1.5 years professional experience + BSc in Computer Science and AI.
-
-Example of past professional work: https://ui.prod.pokersnowie.com/
+BSc in Computer Science and AI
 
 LinkedIn:
 https://www.linkedin.com/in/georgeharland729/
